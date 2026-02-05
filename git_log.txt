@@ -1,0 +1,73 @@
+commit 8dd278fd1895302a1f79c1ac5ce851ada9947602
+Merge: 8b54d67 30cf4a2
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 5 10:28:25 2026 -0800
+
+    Merge branch 'index-fix'
+
+commit 30cf4a28f50f26624a069c183b43c0a0f386239d
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 5 10:25:50 2026 -0800
+
+    Added favorite game
+
+commit 8b54d67c386c9752218ba00300939571555bed65
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 5 10:11:44 2026 -0800
+
+    Added favorite food div
+
+commit b4b7adc098cf99ed9ce9692799085f43766b853a
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 5 10:04:17 2026 -0800
+
+    Added README
+
+commit fb976e396bd73a134cc785b82ff95c4488d9d48a
+Merge: 1d2bfc0 53e95a8
+Author: afbufd <153155011+afbufd@users.noreply.github.com>
+Date:   Wed Feb 4 19:20:52 2026 -0800
+
+    Merge pull request #1 from afbufd/info-fill
+    
+    Filled out name & hobby
+
+commit 53e95a832a284402953df0836bf6fada52f6846f
+Author: afbufd <aflores4824@gmail.com>
+Date:   Wed Feb 4 16:11:18 2026 -0800
+
+    Filled out name & hobby
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
